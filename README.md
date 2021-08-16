@@ -13,4 +13,7 @@ I am Nazee! I am currently enrolled in the Code Institute Diploma in Fullstack S
 
 
 ### GitHub Stats 
-[![Nazee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazulka)](https://github.com/Nazulka/github-readme-stats)
+[![Nazee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazulka&theme=dark&show_icons=true)](https://github.com/Nazulka/github-readme-stats)
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazulka&layout=compact)](https://github.com/Nazulka/github-readme-stats)
