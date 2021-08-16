@@ -6,28 +6,29 @@ I am Nazee! I am currently enrolled in the Code Institute Diploma in Fullstack S
 
 -----
 ### Languages and Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML logo" width="40px" height="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS logo" width="40px" height="40px" 
-/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40px" height="40px"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python logo" width="40px" height="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub logo" width="40px" height="40px" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="Bootstrap logo"  width="40px" height="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo"  width="40px" height="40px" />
-<img src="" alt="Django logo"  width="40px" height="40px" />
-<img src="" alt="Flask logo"  width="40px" height="40px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo"  width="40px" height="40px" />
-<img src="" alt="Heroku logo"  width="40px" height="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo"  width="40px" height="40px" />
-<img src="" alt=" logo"  width="40px" height="40px" />
-<img src="" alt=" logo"  width="40px" height="40px" />
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML logo" width="40px" height="40px"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS logo" width="40px" height="40px"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40px" height="40px"></code>
+<code><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python logo" width="40px" height="40px"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub logo" width="40px" height="40px"></code>
+<code><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="Bootstrap logo"  width="40px" height="40px"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo"  width="40px" height="40px"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo"  width="40px" height="40px"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo"  width="40px" height="40px"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo"  width="40px" height="40px"></code>
+<code><img src="" alt="Heroku logo"  width="40px" height="40px"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo"  width="40px" height="40px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" alt="Stripe logo" width="40px" height="40px"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL logo" width="40px" height="40px"></code>
 
 
 
 ### GitHub Stats 
-[![Nazee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazulka&theme=radical&show_icons=true)](https://github.com/Nazulka/github-readme-stats)
+<a href="https://github.com/Nazulka/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nazulka&theme=radical&show_icons=true" />
+</a>
+<a href="https://github.com/Nazulka/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazulka&theme=radical&layout=compact" />
+</a>
 
-
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazulka&theme=radical&layout=compact)](https://github.com/Nazulka/github-readme-stats)
 
