@@ -1,7 +1,10 @@
-👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" />
+### 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" />, I am Nazee! 
+I am a Junior Fullstack Software Developer currently enrolled in a Fullstack Software Development Diploma course at Code Institute with an MBA and complimentary background in accounting and retail, 
+currently seeking to kick-start a career in software development. 
 
-## Hi, I am Nazee! 
-I am a Junior Fullstack Software Developer and looking for new opportunities and collaborations. I am an enthusiastic and passionate learner and like to explore new technologies! 
+👀 I am looking for new opportunities and collaborations. 
+
+👩🏻‍💻 I am interested in exploring new technologies! 
 
 
 -----
@@ -16,19 +19,19 @@ I am a Junior Fullstack Software Developer and looking for new opportunities and
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" height="30"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" height="30"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo"  height="30"></code>
-<code><img src="" alt="Heroku logo"  height="30"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo"  height="30"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo" height="30"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" alt="Stripe logo" height="30"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL logo" height="30"></code>
 
 
 
-### GitHub Stats 
+### View my stats on GitHub
 <a href="https://github.com/Nazulka/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nazulka&theme=radical&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nazulka&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/Nazulka/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazulka&theme=radical&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazulka&theme=radical&layout=compact" />
 </a>
 
 
