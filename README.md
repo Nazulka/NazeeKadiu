@@ -1,10 +1,12 @@
-### 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" />, I am Nazee! 
+### 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" />, I am Nazee! <a target="_blank" href="https://www.linkedin.com/in/nazee-kadiu-2212ab1ba/">
+  <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 I am a Junior Fullstack Software Developer currently enrolled in a Fullstack Software Development Diploma course at Code Institute with an MBA and complimentary background in accounting and retail, 
 currently seeking to kick-start a career in software development. 
 
-👀 I am looking for new opportunities and collaborations. 
+* 👀 I am looking for new opportunities and collaborations. 
 
-👩🏻‍💻 I am interested in exploring new technologies! 
+* 👩🏻‍💻 I am interested in exploring new technologies! 
 
 
 -----
