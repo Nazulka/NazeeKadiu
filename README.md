@@ -4,7 +4,7 @@ currently seeking to kick-start a career in software development.
 
 * 👇🏼 Check out below my personal projects, created as part of the Code Institute Course.
 
-* 👀 I am looking for new opportunities and collaborations <a target="_blank" href="https://www.linkedin.com/in/nazee-kadiu-2212ab1ba/">
+* 👀 I am looking for new opportunities and collaborations <a target="_blank" href="https://www.linkedin.com/in/nazeekadiu/">
   <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>.
 
 * 👩🏻‍💻 I am really keen to learn new technologies and contribute to a tech environment! 
