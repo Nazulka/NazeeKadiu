@@ -1,5 +1,5 @@
 ### <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="24px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" />, I am Nazee! 
-I am a Junior Full Stack Software Developer currently enrolled in a Code Institute Full Stack Software Development Diploma with an MBA and complimentary background in accounting and retail, 
+I am a Junior Full Stack Software Developer with complimentary background in accounting and retail, 
 currently seeking to kick-start a career in software development.
 
 * 👇🏼 Check out below my personal projects, created as part of the Code Institute Course.
@@ -7,7 +7,7 @@ currently seeking to kick-start a career in software development.
 * 👀 I am looking for new opportunities and collaborations <a target="_blank" href="https://www.linkedin.com/in/nazeekadiu/">
   <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>.
 
-* 👩🏻‍💻 I am really keen to learn new technologies and contribute to a tech environment! 
+* 👩🏻‍💻 I am really keen to learn new technologies and contribute to the tech environment! 
 
 
 -----
