@@ -1,5 +1,5 @@
 ### <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="24px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" />, I am Nazee! 
-I am a Junior Full Stack Software Developer with complimentary background in accounting and retail
+I am a Junior Full Stack Software Developer with complimentary background in accounting, business management and retail
 currently seeking to kick-start a career in software development.
 
 * 👇🏼 Check out below my personal projects!
