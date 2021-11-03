@@ -9,7 +9,7 @@ currently seeking to kick-start a career in software development.
 
 * 👩🏻‍💻 I am really keen to learn new technologies and contribute to the tech environment! 
 
-* 💻 Complete Linux Training Course ... in progress.
+* 💻 React and Linux ... in progress.
 
 -----
 ### Languages and Tools
