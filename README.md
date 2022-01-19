@@ -1,9 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="24px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" />, I am Nazee! 
-I am a Junior Full Stack Software Developer.
+I am a Junior Software Engineer.
 
 * 👇🏼 Check out below my personal projects!
-
-* 👩🏻‍💻 I am really keen to learn new technologies and contribute to the tech environment! 
 
 
 
