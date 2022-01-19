@@ -3,9 +3,6 @@ I am a Junior Full Stack Software Developer.
 
 * 👇🏼 Check out below my personal projects!
 
-* 👀 I am looking for new opportunities and collaborations <a target="_blank" href="https://www.linkedin.com/in/nazeekadiu/">
-  <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>.
-
 * 👩🏻‍💻 I am really keen to learn new technologies and contribute to the tech environment! 
 
 
