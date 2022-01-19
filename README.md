@@ -8,7 +8,7 @@ I am a Junior Full Stack Software Developer.
 
 * 👩🏻‍💻 I am really keen to learn new technologies and contribute to the tech environment! 
 
-* 💻 React and Linux ... in progress.
+
 
 -----
 ### Languages and Tools
